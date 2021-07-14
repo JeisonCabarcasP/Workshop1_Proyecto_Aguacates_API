@@ -1,3 +1,9 @@
 @import 'tailwindcss/dist/base.css';
 @import 'tailwindcss/dist/components.css';
 @import 'tailwindcss/dist/utilities.css';
+
+.container-card{
+    display: grid;
+    justify-content: center;
+}
+
